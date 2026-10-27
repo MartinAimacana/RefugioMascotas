@@ -85,7 +85,7 @@ Marco Cueva
 
 **Asignatura:** Programación III
 
-**Docente:** Ing. Paulo Guerra T.
+**Docente:** Ing. Byron Rodriguez.
 
 **Proyecto:** Progreso 1 – RefugioMascotas
 
